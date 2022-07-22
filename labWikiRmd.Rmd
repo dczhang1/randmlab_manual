@@ -1,0 +1,382 @@
+---
+title: "Risk and Decision Making Lab (RANDM LAB)"
+author: "Principle Investigator: Don Zhang, Ph.D."
+date: 'Updated: `r Sys.Date()`'
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    toc_depth: 3
+    number_sections: true
+    theme: lumen
+subtitle: Lab Manual
+editor_options:
+  chunk_output_type: console
+---
+
+# Lab Info
+
+Johnston Hall | Rooms 9 and 10
+
+Louisiana State University
+
+Department of Psychology
+
+Lab Director: Don Zhang, PhD
+
+# Overview
+At the (Risk and Decision Making) RANDM Lab, we are interested in how people make decisions under risk and uncertainty in the work context, broadly defined. Some past and current project involve examining why employees take risks at work and what this means for organizations. We are also interested in how managers make decisions about prospective employees (i.e., job seekers). Finally, we are also interested in how job applicants behave during the hiring process. We are also interested in the research methodology as well as the philosophy of science (e.g., meta-science).
+
+## Facilities
+The RANDM Lab is located in the basement of Johnston Hall on Louisiana State University, Baton Rouge campus. The lab space is separated into a Student Office and a Behavioral Lab. The Student Office is open 8:00am to 5:00pm, Monday through Friday. Undergraduate and graduate researchers may enter at any time and use one of the two workstations. The Behavioral Lab contains six data collection stations as well as a small conference table. When available, the data collection station computers may also be used as a workstation. RANDM Lab members may use the behavioral lab when there are no experiments being conducted. The Behavioral Lab may also be used for small lab meetings. Keys to both the behavioral lab and student office can be found in the lockbox on the doorknob. The code to the lockbox is *8008* for the *2022-2023 AY*. _Always leave the keys in the lockbox_. Never take them out after using them!!!
+
+## Equipment
+The RANDM Lab houses two fully-equipped desktop workstations in the Computer Lab and six multi-purpose workstations in the Behavioral Lab. Lab members may use these workstations to conduct research and perform lab related tasks. Lab members also have access to a lab iPad they may check out for research purposes. All lab equipment and properties must be kept in the blue cabinet. Students who wishes to take equipment home must obtain permission from Don.
+
+# Personnel
+The RANDM Lab is founded and directed by Don Zhang. The lab, however, primarily functions through the hard work of graduate and undergraduate researchers. Each semester, the RANDM lab consists of between five to eight undergraduate research assistants and one to three graduate researchers and post-docs. Lab personnel may find their relevant responsibilities and expectations below
+
+## Principal Investigator
+My role is to oversee all research related activities in the RANDM Lab. As the lab Principal Investgiator, I am responsibile for providing researchers in the lab with various researces they need to succeed. However, as the PI, I also wear many hats such as teacher, mentor, adviser, and emotional support. I will 
+
+* Support your professional and personal development, broadly speaking.
+
+* Provide access and opportunity to resources in the form of equipment, funding, and personnel for research.
+
+* Suggest relevant theoretical, conceptual, and methodological approaches and resources to aid students' research. 
+
+* Review, edit, and provide feedback on your original research.
+
+* Share professional opportunities that may be relevant to the student's career development.
+
+* Ensure a safe, supportive, and healthy research environment. 
+
+* Maintain continued support outside of the non-academic calendar (i.e., summers, winter breaks).
+
+
+## Graduate Students 
+Graduate students are expected to work very closely with me on all research related activities. Advanced graduate students are also expect to take on leadership roles in research projects. Although I will provide supervision, support, and instruction to the best of my ability, I also expect you to independently acquire skills, knowledge, and expertise to develop your own research. In addition to LSU requirements for course work and degree milestones, graduate students in the lab are expected to:
+
+* Familiarity with departmental and administrative rules, policies, and procedures related to research. 
+
+* Familiarity with the substantive, methodological, and empirical literature related to the lab's research activities. 
+
+* Independently keeping up with current literature with respect to the overal research agenda of the lab. 
+
+* Initiate, prepare, and lead regular meetings with adviser to advance research projects.
+
+* Lead and develop their own research program, particularly with respect to major milestones required for graduation (e.g., thesis, dissertation).
+
+* Help train and mentoring undergraduate students within the lab.
+
+* Submit and present lab research at conferences and peer-reviewed journals.
+
+* Seek internal (e.g. LSU) and external (e.g., SIOP) grant funding.
+
+* Consult adviser on significant professional decisions (employment, outside collaborations, applications for funding).
+
+## Lab Manager
+The lab manager is a graduate or advanced undergraduate student who has been in the RANDM lab for at least 1 full semester. The lab manager is responsible for various administrative tasks around the RANDM lab. Lab managers, however, are also encouraged to develop and advance their own research. Lab manager duties include:
+
+* Onboarding and training of new lab members
+
+* Overseeing the selection and recruiting of lab personnel
+
+* Overseeing lab experiments (SONA experiments)
+
+* Assist with recruitment of research participants
+
+* Maintain and updating lab website
+
+* Helping with other administrative tasks that may arise
+
+* Engage in their own independent research
+
+## Undergraduate Researcher
+Students who are interested pursuing and leading their own research should speak to Don. Relatedly, they are encouraged to apply to one of several LSU-sponsored research opportunities such as LSU Discover Research Grant or the ASPIRE Scholar Program. You may become an undergraduate researcher through several routes:
+
+* [Ogden Honors Thesis](https://www.honors.lsu.edu/academics/curriculum/thesis) - Students in the Ogden Honor College may work with me as their thesis adviser. Students who are not in the Honors College also have the opportunity to complete an Honors Thesis. You must enroll during the Fall of your Junior year. 
+
+* [Discover Research Grant](https://sites01.lsu.edu/wp/discover/research-grants/) - This grant will pay you during the academic school year to conduct your independent research. There are multiple calls for proposals each year. Please talk to me if you are interested and would like me to supervise your research.
+
+* [ASPIRE Undergraduate Research Program](https://www.lsu.edu/hss/aspire/index.php) - The ASPIRE program allows undergraduates to get paid for research and travel to present their work at conferences. Unlike to the LSU Discover Grant, the ASPIRE program does not pay salary during the regular school year. It does, however, provide financial support for summer research as well as conference traveling. 
+
+Undergraduate researchers are expected to take leadership role in their project. This means that you will be treated more like a graduate student. Independent research experience is essential for admission into research-oriented graduate programs (e.g., PhD programs). 
+
+As an adviser, I will supervise, direct, and support your research to the best of my ability. However, scientific research is unlike class work. There are often no 'right' answers. You are expected to be independent, self-motivated, and industrious. Your research is part of the RANDM lab, which means you may use lab resources in equipment, space, and personnel to complete your research. You will also be expected to present the result of your research at conferences and submitting it for publiation in scientific journals.
+
+## Research Assistants
+
+Generally, each research assistant will be assigned to at least one specific project at a time. Research assistants will assist with a variety of research related tasks around the lab. These tasks may include:
+
+* Data collection 
+
+* Literature search
+
+* Data cleaning
+
+* Survey testing
+
+* Copy editing
+
+* Attending lab meetings
+
+* Coding
+
+* Misc. research tasks
+
+Research assistants are also encouraged to develop their own ideas that they can pursue as an independent research project. Students who are interested in pursuing a PhD are especially encouraged to pursue independent research. If you are unsure where to start, I suggest you speak with me or one of the graduate students in the lab. 
+
+# Lab Culture
+
+At the RANDM Lab, everyone is encouraged to communicate honestly and respectively. Even as the head of the lab, I do not know everything. Everyone should feel safe in speaking their mind and challenging each other irregardless of rank. I expect you to challenge and disagree with me if you think I am wrong. 
+
+## Working Hours and Holidays
+
+Graduate students should treat your PhD as a full-time job. This means expecting to work between regular business hours (9 to 5), Mon – Fri. 
+Although research in academia is flexible and remote work is possible, lab members are expected to be on campus/in office at least 3 days a week to maximize collaboration, intellectual engagement, and building camaraderie. Ultimately, I encourage you to find what works for you for getting work done but also contribute to the culture-building and collaborative needs of the lab.
+
+Vacations are encouraged. Take them! Please observe LSU calendar for official holidays (e.g., Christmas, Mardi Gras, etc). You should also take some time off during the summer (3 weeks, with flexibility. Please notify Don when away from office). However, summers are prime time for research due to reduced course and teaching obligations. Thus, you are expected to be working on research (e.g., preparing for SIOP submissions) and degree milestone (e.g., thesis) during summer months (at a slightly reduced load). Generally, this means that I expect you to be working between 20 and 30 hours per week. Individual arrangements may vary for students on full-time external internships or grants. Please speak with Don before each summer regarding your summer plans.  
+
+We encourage lab members to disconnect ad maintain healthy work-nonwork boundaries. You are, however, expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 48 business hours (even if this means a thumbs-up emoji on Slack messages, we love technology :). If you receive emails or Slack messages from me during odd hours, you are not obligated or expected to respond. You're also welcome to work away from campus from time to time or on days when you have no in-person obligations (e.g., classes). 
+
+## Communication
+
+We actively try to avoid using emails when communicating with each other. Instead, during the academic school year, all lab-related communications are contained on Slack, which is a real-time team-based communication platform. Slack can be accessed via your web browser (e.g., Google Chrome), as a Desktop app, and as a Mobile app. 
+
+### Slack Guidelines
+
+1. Post in appropriate channels
+
+2. All members are expected to be aware of all messages in the "general" channel. 
+
+3. Please use "Start a Threads" when replying to a specific message in a channel. One conversation = one thread.
+
+4. When messaging one person, please use DMs instead of "@" in channel.
+
+5. Set appropriate notification and Do-not-disturb settings.
+
+6. Graduate students are expected to be aware and respond to Slack messages in a reasonable manner
+
+7. Familiarize with Slack features such as Pinning, bookmarking, do-not-disturb settings, reminders, etc. 
+
+## Lab Meetings
+
+Each graduate student will have a weekly 10-minute check-in meeting with me on every monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You must be prepared to provide an update and list of concrete actions/goals before the meeting. 
+
+We will have bi-weekly 1-hour full lab meetings for research activities such as article readings, brainstorming sessions, research presentation, or other professional development activities (e.g., mini-workshops).Other project-specific meetings will be held on a as-needed basis. 
+
+Finally, I have a virtual and physical open-door policy. Feel free to message me on Slack or visit me in my office, if you have questions, ideas, or concerns at any time.
+
+## Authorship and Credit
+
+Graduate students are expected to significantly contribute to research within the lab. *Authorship* on research outputs (manuscripts, posters, etc) is given to individuals who made meaningful and substantial *intellectual contributions,* which include, but are not limited to, significant contribution to literature synthesis, theory development, research design, hypotheses generation, data analysis, and manuscript writing/editing. Individuals who made clerical or administrative contributions, which include data collection, survey building, copy-editing will be listed in the *acknowledgment* sections of the research product. 
+
+All projects will have a *lead researcher* (typically Don or a senior graduate student). The lead researcher is responsible for directing the research effort, delegating tasks, and actively moving the project forward. The lead researcher is usually responsible for the first draft of the final manuscript. Lead researcher will be listed in the *first author* only if they meet the author requirements listed previously. Graduate students who provide supporting roles (e.g., data analysis, literature review) are expected to complete the assigned task in a timely manner. Failure to do so may result in removal from the project or dismissal from the lab/program.
+
+I will try to be be transparent and clear about authorship roles at early stages of the project. However, new authors may be added to a project based on their contributions at later stages of the project. And existing authors may be removed if they fail to fulfill their responsibilities and complete the necessary research tasks in an accurate and timely manner. 
+
+**Dormant Projects**. If a researcher collects or is given a data but does not make reasonable progress on project within 1 year, I will re-assign the project (if appropriate) to another person to expedite publication at my discretion. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 1-year window, I will also re-assign the project to another individual. The original researcher may either be moved to a supporting authorship role or removed from the paper altogether, depending on the level of past contribution. Students who are unable to meet expected timelines due to other personal or professional obligations must maintain regular communication with the PI. This policy is here to prevent data from remaining unpublished, but is meant to give priority to the person who collected the data initially.
+
+# Software and Accounts
+
+## Essential Internet Accounts
+
+**Slack.** All lab members must be signed up Slack  Lab members expected to keep up with lab-related communication using Slack. 
+
+**Microsoft OneDrive. ** Please make sure you are enrolled in the RANDM Lab OneDrive. Essential lab-related documents and various research related resources can be found on the shared lab folder.
+
+**Open Science Framework.** Graduate students and researchers are required to have accounts on OSF to best engage in Open Science Practices
+
+**SONA Researcher Account** Graduate students and RAs who are actively involved in data collection via the SONA subject pool must obtain a researcher account. You may request an account by emailing (cc Dr. Don and the graduate student PI (if applicable)) the SONA administrator (researchadmin@lsu.edu)
+
+**Google Account** Some research projects may be hosted on a Google Drive. Therefore, it is highly advised that you obtain a free Google account, as well. 
+
+[**Github**](github.com) Github is recommended for version control and is particularly useful when working in R.
+
+**Google Scholar** Google Scholar is recommended for advanced students who are interested in pursuing academia. 
+
+
+## Software
+
+All of the software below are free and open-source, which means you can download them to your personal computer. They are all installed on the RANDM Lab computers, as well.
+
+**R and R-Studio.** Please download the latest version of R and R-Studio to conduct all statistical analyses in the RANDM Lab.
+
+**Jamovi.** Jamovi is an user-friendly and open-source statistical software. Students may use Jamovi for their first project (e.g. undergraduate) but are encouraged to move onto R as soon as possible. 
+
+**GitKraken** GitKraken is a desktop client for Git. All students working on statistical analyses are encouraged to use GitKraken version control and collaborative research. 
+
+# Laboratory Research
+
+This section details the steps needed to conduct laboratory research studies using the SONA system. 
+### Experimental Protocol
+
+The lead researcher of the experiment is responsible for producing a detailed research protocol (script) for completing a single instance (trial) of the experiment from beginning to finish. This protocol should be written at the level and clarity of a food recipe. This means that any RA in the lab should be able to take your protocol and replicate the entire experiment in its entirety with out any instruction from you. When writing your protocol, it is important to put yourself in the shoes of another experimenter. You must carefully consider how someone else might interpret your procedure and ensure that all details are written clearly. The experimenter protocol must be tested with the Don present before moving onto the next step of the study. 
+
+### Writing your protocol
+
+The protocol should describe follow sections. The specific language below may be used in the protocol, and modified as needed. 
+
+1) Setting up - The protocol should start with when and where the RA should meet participants for the study. For all studies conducted *in person* at the Behavioral Lab, we will use the following language as the designated meeting location for SONA participants: **"MAIN LOBBY of Johnston Hall by the Desks"**. This specific location will be used when posting studies on SONA.
+
+2) When gathering participants from the main lobby, the researcher should announce "is there anyone here for the [insert study name]?" and lead participants to the basement into the behavioral lab. Depending on the length and nature of the study, the PI may allow participants to start late. In this case, the PI must specify the tardy allowance to ensure that the experiment can still be conducted in the scheduled time. 
+
+3) Upon entering the lab, the researcher need to provide a script for how participants will be greeted and introduced to the task. This introduction script should give the participant an overview of the study as well as instructions on completing the consent form. 
+
+4) The main section of the protocol will vary between experiments. However, all experimental protocols must include detailed instructions and the exact script used by the RA, processes used for random assignment (if not done automatically), and any additional notes needed to help the RA respond to participant inquiries. Experiments with different scripts for different experimental conditions must be clearly described.
+
+5) When you have finished a draft of the protocol, you must first test it with yourself and another RA in the lab. This brings to the next section.
+
+### Testing your protocol
+First, run through the experiment with an imaginary participant in the lab. Go through each script and each interaction. Test all the technologies and complete the experiment on you own as a participant. Does it work? Are data collected the way you intend? If you are running an experiment, are the randomization processes functional? 
+
+Next, the researcher must assemble the list of RAs who may be helping with data collection and set up a trial run with the PI (Don) present to run through the protocol from beginning to finish. One of the RAs will serve as a participant whereas the other RA (someone who is not the researcher) will run through the experiment using the provided protocol. 
+
+Protocol testing may result in revisions to the protocol prior to data collection. The student must receive formal clearance from Don before they can begin posting their study on SONA.
+
+When the protocol is finalized, the researcher is responsible for training RAs who will be participating in the data collection. Any participating RAs must complete an independent run of the experimental protocol under the supervision of the researcher before they can be scheduled to run the experiment independently. 
+
+### Recruiting, Scheduling, and Data Collection
+
+The researcher is responsible for scheduling all experimental sessions. 
+
+All researchers involved in data collection should have an Researcher Account on SONA in order to record attendance and manage experimental sessions (See Onboarding section). 
+
+When data collection is ongoing, research assistants will be expected to be physically present during their assigned time slots. The experiment sessions will be posted by WEDNESDAY one week before. Experiments will be scheduled based on the availability of the RA as noted in the (RA Schedule). Any changes in RA availability must be notified to the researcher before WEDNESDAY. 
+
+The researcher will schedule the experiments on SONA for the following week on Wednesday based on the RA's availability. 
+
+In the event when more than one experiment is being conducted, it is imperative that researchers coordinate lab space as to not schedule two experiment in the same time slot. 
+
+The final schedule will be posted on the [Lab Schedule](https://lsumail2-my.sharepoint.com/:x:/g/personal/zhang1_lsu_edu/EYSLRgV9swxOnrktIlFu6gAB186UQwDLHscgy8TOejFQaA?e=2pjO63) (See correspondingt tab) as well as SONA for the corresponding week by WEDNESDAY EOB and the experiments will be available for signups on SONA. 
+
+Absence/Cancellations/Emergencies: If you (RA) are scheduled for an experiment but cannot make it for any reason, you must 1) find someone else in the lab who can fill in or 2) if no one can fill in, contact the researcher via Slack ASAP to see if the scheduled session can be cancelled. 
+
+*Example Timing of Scheduling*
+
+- 1/17 (Monday): RAs must confirm availability and communicate changes to researcher
+
+- 1/19 (Wednesday): Experiment posted on SONA and schedule posted on Lab Calendar by the researcher
+
+- 1/24 (Monday): Start of data collection
+
+# Research Workflow
+
+All statistical and data analysis must be documented, reproducible, and clear. To do so, we rely on several tools and best practices. Below are some best practices to follow when working on data-driven projects either individually or collaboratively. 
+
+### Todoist
+
+We use Todoist (todoist.com) for management of projects, tasks, and deadlines. All graduate students must have a Todoist account and use it to manage and track all lab-related responsibilities. Students are also strongly encouraged to use Todoist for managing and prioritizing work-related responsibilities outside of work. Along with Todoist, we use the key principles of "Getting Things Done" (GTD, by David Allen)
+
+**Label Reference List**
+
+1. @next - immediate action items to move project forward
+
+2. @waiting - waiting on actions 
+
+3. @someday - non-actions/references/reminders for future
+
+4. other optional tags include: @erranges, @email, @campus. 
+
+### Github and Version Control
+
+All lab members involved in data analysis should have a GitHub.com account and download the GitKraken for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). 
+
+New projects should be initiated using GitHub and Don's project template. Make habit of pulling from the master branch every time you start working on the project. Commit/push frequently as you make progress. Include notes on commit messages to denote changes and progress made.
+
+### Writing Script
+
+*UNDER CONSTRUCTION*
+
+### Manuscript Preparation
+
+All working manuscripts (thesis/journal publication) will be stored on OneDrive and shared with Don/others. Manuscripts should be prepared using Microsoft Word (Desktop or Cloud versions) for collaboration and version control. (We will avoid using Google Doc for preparing manuscripts). 
+
+# Resources
+
+## Key Readings
+
+The articles below are a collection of key papers for research in this lab. This reading list serves two purposes. First, it provides an overview of the research agenda of this lab. Second, it gives you a starting point for your literature review should you choose to conduct research in these areas. Graduate students required to read articles from this list to gain a general grasp of our research agenda. (Papers published by the lab can be found in the [OneDrive folder](https://lsumail2-my.sharepoint.com/:f:/g/personal/zhang1_lsu_edu/EiqXU6eWAi1DjZbF2qSpyecBOZzmhbqr1UlsezlLdsPu0g?e=V84od3))
+
+### Risk Taking
+
+[Zhang, D. C., Highhouse, S., & Nye, C. D. (2019). Development and validation of the general risk propensity scale (GRiPS). Journal of Behavioral Decision Making, 32(2), 152–167.](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EVhYS_zDBiFMmmu7UdVzgQ8BrsggjX0I7T9l7bK0xagr7Q?e=Ppk4Bg)
+
+Frey, R., Pedroni, A., Mata, R., Rieskamp, J., & Hertwig, R. (2017). Risk preference shares the psychometric structure of major psychological traits. Science Advances, 3(10). https://doi.org/10.1126/sciadv.1701381
+
+Pedroni, A., Frey, R., Bruhin, A., Dutilh, G., Hertwig, R., & Rieskamp, J. (2017). The risk elicitation puzzle. Nature Human Behaviour, 1(11), 803–809. https://doi.org/10.1038/s41562-017-0219-x
+
+Mishra, S. (2014). Decision-Making Under Risk Integrating Perspectives From Biology, Economics, and Psychology. Personality and Social Psychology Review, 1088868314530517. https://doi.org/10.1177/1088868314530517
+
+Mata, R., Frey, R., Richter, D., Schupp, J., & Hertwig, R. (2018). Risk preference: A view from psychology. Journal of Economic Perspectives, 32(2), 155-72.
+
+Highhouse, S., Wang, Y., & Zhang, D. C. (2022). Is Risk Propensity Unique from the Big Five Factors of Personality? A Meta-Analytic Investigation. Journal of Research in Personality, 104206. https://doi.org/10.1016/j.jrp.2022.104206
+
+
+### Judgment and Decision Making
+
+Zhang, D. C., & Highhouse, S. (2018). Judgment and Decision Making in the Workplace. In N. Anderson, D. S. Ones, C. Viswesvaran, & H. Sinangil (Eds.), Handbook of industrial, work and organizational psychology, Volume 2: Organizational psychology (2nd ed., Vol. 1, p. 23). Wiley New York.
+
+Moore, D. A., & Healy, P. J. (2008). The trouble with overconfidence. Psychological review, 115(2), 502.
+
+Dalal, R. S., Bonaccio, S., Highhouse, S., Ilgen, D. R., Mohammed, S., & Slaughter, J. E. (2010). What If Industrial–Organizational Psychology Decided to Take Workplace Decisions Seriously? Industrial and Organizational Psychology, 3(4), 386–405.
+
+Zhang, D. C., & Wang, Y. (2021). An empirical approach to identifying subject matter experts for the development of situational judgment tests. Journal of Personnel Psychology.
+
+### Selection, Recruitment, and Performance
+
+Highhouse, S. (2008). Stubborn reliance on intuition and subjectivity in employee selection. Industrial and Organizational Psychology, 1(3), 333–342.
+
+Zhang, D. C., Highhouse, S., Brooks, M. E., & Zhang, Y. (2018). Communicating the validity of structured job interviews with graphical visual aids. International Journal of Selection and Assessment, 26(2–4), 93–108. https://doi.org/10.1111/ijsa.12220
+
+Dalal, R. S., Bhave, D. P., & Fiset, J. (2014). Within-Person Variability in Job Performance: A Theoretical Review and Research Agenda. Journal of Management, 40(5), 1396–1436. https://doi.org/10.1177/0149206314532691
+
+Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151, 90-103.
+
+Heslin, P. A., Latham, G. P., & VandeWalle, D. (2005). The Effect of Implicit Person Theory on Performance Appraisals. Journal of Applied Psychology, 90(5), 842–856. https://doi.org/10.1037/0021-9010.90.5.842
+
+### Methodological Papers
+
+Matthews, R. A., Pineault, L., & Hong, Y.-H. (2022). Normalizing the use of single-item measures: Validation of the single-item compendium for organizational psychology. Journal of Business and Psychology, 1–36.
+
+Patriotta, G. (2020). Writing Impactful Review Articles. Journal of Management Studies, 57(6), 1272–1276. https://doi.org/10.1111/joms.12608
+
+Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rupp, D. E., & Rogelberg, S. G. (2018). Answers to 18 Questions About Open Science Practices. Journal of Business and Psychology. https://doi.org/10.1007/s10869-018-9547-8
+
+Antonakis, J., Bendahan, S., Jacquart, P., & Lalive, R. (2010). On making causal claims: A review and recommendations. The Leadership Quarterly, 21(6), 1086–1120. https://doi.org/10.1016/j.leaqua.2010.10.010
+
+### Writing and Theorizing
+
+Grant, A. M., & Pollock, T. G. (2011). Publishing in AMJ--Part 3: Setting the Hook. Academy of Management Journal, 54(5), 873–879. https://doi.org/10.5465/amj.2011.4000
+
+Locke, K., & Golden-Biddle, K. (1997). Constructing Opportunities for Contribution: Structuring Intertextual Coherence and “Problematizing” in Organizational Studies. Academy of Management Journal, 41.
+
+Ragins, B. (2012). Reflections on the craft of clear writing. Academy of Management Review, 37(4), 493–501.
+
+"How to write a lot” – Paul Silvia 
+
+“How to Use Storytelling in Academic Writing” – Tim Pollock
+
+“Scientific Writing for Psychology” – Robert Kail 
+
+## Script and R Code
+
+R Project Templates (https://github.com/dczhang1/projectTemplate)
+
+R Script for Analyses (https://github.com/dczhang1/analysisTemplates)
+
+# Onboarding
+
+*Tasks to be completed in the first 2 weeks of joining the lab*
+
+* Set up a meeting with the Lab Manager 
+* Sign up for a [Slack](https://slack.com/) account and enroll in the lab channel. 
+* Swing by to check out the Lab facilities (Johnston Rooms 9 and 10)
+* Check out the RANDM Lab website
+* Complete the [CITI Research Ethics](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EdThifAPGZdJhRTtj8YzGpIBg69HZZJOw4u_ZRkSyqWA8Q?e=CuoGq4) training and send the completion certificate to the Lab Manager
+* Read the entire Lab Manual in its entirity 
+* Undergraduate RAs should review the PSY2999/4999 [Course Syllabus](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/EfjUX5efBYhKmvILOAEPtcgBuw1Fj2gUhrknl-vCXYUTXg?e=RfnGQV)
+* Undergraduate RAs should obtain a blank copy of the RA [Weekly Update Form](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/ETYHnVik8jFMuCfw2bcvLvkBIl7e-Ly-EG9hTz_CPdjx4g?e=8yqGNc)
+
