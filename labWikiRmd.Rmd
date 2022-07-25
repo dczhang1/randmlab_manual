@@ -134,17 +134,17 @@ At the RANDM Lab, everyone is encouraged to communicate honestly and respectivel
 
 ## Working Hours and Holidays
 
-Graduate students should treat your PhD as a full-time job. This means expecting to work between regular business hours (9 to 5), Mon – Fri. 
-Although research in academia is flexible and remote work is possible, lab members are expected to be on campus/in office at least 3 days a week to maximize collaboration, intellectual engagement, and building camaraderie. Ultimately, I encourage you to find what works for you for getting work done but also contribute to the culture-building and collaborative needs of the lab.
+Graduate students should treat your PhD as a full-time job. This means expecting to work between regular business hours (9 to 5), Mon – Fri. Although research in academia is flexible and remote work is possible, lab members are expected to be on campus/in office at least 3 days a week to maximize collaboration, intellectual engagement, and building camaraderie. Ultimately, I encourage you to find what works for you for getting work done but also contribute to the culture-building and collaborative needs of the lab.
 
-Vacations are encouraged. Take them! Please observe LSU calendar for official holidays (e.g., Christmas, Mardi Gras, etc). You should also take some time off during the summer (3 weeks, with flexibility. Please notify Don when away from office). However, summers are prime time for research due to reduced course and teaching obligations. Thus, you are expected to be working on research (e.g., preparing for SIOP submissions) and degree milestone (e.g., thesis) during summer months (at a slightly reduced load). Generally, this means that I expect you to be working between 20 and 30 hours per week. Individual arrangements may vary for students on full-time external internships or grants. Please speak with Don before each summer regarding your summer plans.  
+Vacations are encouraged. Take them! Please observe LSU calendar for official holidays (e.g., Christmas, Mardi Gras, etc). You should also take some time off during the summer (3 weeks, with flexibility. Please notify Don when away from office/computer). However, summers are prime time for research due to reduced course and teaching obligations. Thus, you are expected to be working on research (e.g., preparing for SIOP submissions) and degree milestone (e.g., thesis) during summer months. I expect you to be working between 20 and 30 hours per week on research and/or professional development. Individual arrangements may vary for students on full-time external internships or grants. Please speak with Don before each summer regarding your summer plans. 
 
-We encourage lab members to disconnect ad maintain healthy work-nonwork boundaries. You are, however, expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 48 business hours (even if this means a thumbs-up emoji on Slack messages, we love technology :). If you receive emails or Slack messages from me during odd hours, you are not obligated or expected to respond. You're also welcome to work away from campus from time to time or on days when you have no in-person obligations (e.g., classes). 
+
 
 ## Communication
 
 We actively try to avoid using emails when communicating with each other. Instead, during the academic school year, all lab-related communications are contained on Slack, which is a real-time team-based communication platform. Slack can be accessed via your web browser (e.g., Google Chrome), as a Desktop app, and as a Mobile app. 
 
+You are expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 48 business hours (even if this means a thumbs-up emoji on Slack messages, we love technology :). If you receive emails or Slack messages from me during odd hours, you are not obligated or expected to respond. 
 ### Slack Guidelines
 
 1. Post in appropriate channels
@@ -153,9 +153,9 @@ We actively try to avoid using emails when communicating with each other. Instea
 
 3. Please use "Start a Threads" when replying to a specific message in a channel. One conversation = one thread.
 
-4. When messaging one person, please use DMs instead of "@" in channel.
+4. When messaging one person that does not require awareness from others, please use DMs instead of "@" in channel.
 
-5. Set appropriate notification and Do-not-disturb settings.
+5. Set appropriate notification and Do-not-disturb settings to ensure that Slack message are received in a timely manner.
 
 6. Graduate students are expected to be aware and respond to Slack messages in a reasonable manner
 
@@ -163,9 +163,9 @@ We actively try to avoid using emails when communicating with each other. Instea
 
 ## Lab Meetings
 
-Each graduate student will have a weekly 10-minute check-in meeting with me on every monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You must be prepared to provide an update and list of concrete actions/goals before the meeting. 
+Each graduate student will have a weekly 10-minute check-in meeting with me on every Monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You must be prepared to provide an update and list of concrete actions/goals before the meeting. 
 
-We will have bi-weekly 1-hour full lab meetings for research activities such as article readings, brainstorming sessions, research presentation, or other professional development activities (e.g., mini-workshops).Other project-specific meetings will be held on a as-needed basis. 
+We will have bi-weekly 1-hour full lab meetings for research activities such as article readings, brainstorming sessions, research presentation, or other professional development activities (e.g., mini-workshops). Other project-specific meetings will be held on a as-needed basis. 
 
 Finally, I have a virtual and physical open-door policy. Feel free to message me on Slack or visit me in my office, if you have questions, ideas, or concerns at any time.
 
@@ -187,16 +187,15 @@ I will try to be be transparent and clear about authorship roles at early stages
 
 **Microsoft OneDrive. ** Please make sure you are enrolled in the RANDM Lab OneDrive. Essential lab-related documents and various research related resources can be found on the shared lab folder.
 
-**Open Science Framework.** Graduate students and researchers are required to have accounts on OSF to best engage in Open Science Practices
-
 **SONA Researcher Account** Graduate students and RAs who are actively involved in data collection via the SONA subject pool must obtain a researcher account. You may request an account by emailing (cc Dr. Don and the graduate student PI (if applicable)) the SONA administrator (researchadmin@lsu.edu)
 
-**Google Account** Some research projects may be hosted on a Google Drive. Therefore, it is highly advised that you obtain a free Google account, as well. 
-
-[**Github**](github.com) Github is recommended for version control and is particularly useful when working in R.
+[**Github**](github.com) Github is required for version control and is particularly useful when working in R.
 
 **Google Scholar** Google Scholar is recommended for advanced students who are interested in pursuing academia. 
 
+**Open Science Framework.** Graduate students and researchers are required to have accounts on OSF to best engage in Open Science Practices
+
+**Google Account** Some research projects may be hosted on a Google Drive. Therefore, it is highly advised that you obtain a free Google account, as well. 
 
 ## Software
 
@@ -206,7 +205,7 @@ All of the software below are free and open-source, which means you can download
 
 **Jamovi.** Jamovi is an user-friendly and open-source statistical software. Students may use Jamovi for their first project (e.g. undergraduate) but are encouraged to move onto R as soon as possible. 
 
-**GitKraken** GitKraken is a desktop client for Git. All students working on statistical analyses are encouraged to use GitKraken version control and collaborative research. 
+**GitHub Desktop** GitHub has an optional desktop client to facilitate version control. However, all git-related actions can be completed using RStudio or the terminal. 
 
 # Laboratory Research
 
@@ -262,11 +261,11 @@ Absence/Cancellations/Emergencies: If you (RA) are scheduled for an experiment b
 
 - 1/24 (Monday): Start of data collection
 
-# Research Workflow
+# Project Management
 
 All statistical and data analysis must be documented, reproducible, and clear. To do so, we rely on several tools and best practices. Below are some best practices to follow when working on data-driven projects either individually or collaboratively. 
 
-### Todoist
+## Todoist
 
 We use Todoist (todoist.com) for management of projects, tasks, and deadlines. All graduate students must have a Todoist account and use it to manage and track all lab-related responsibilities. Students are also strongly encouraged to use Todoist for managing and prioritizing work-related responsibilities outside of work. Along with Todoist, we use the key principles of "Getting Things Done" (GTD, by David Allen)
 
@@ -280,17 +279,13 @@ We use Todoist (todoist.com) for management of projects, tasks, and deadlines. A
 
 4. other optional tags include: @erranges, @email, @campus. 
 
-### Github and Version Control
+## Github and Version Control
 
 All lab members involved in data analysis should have a GitHub.com account and download the GitKraken for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). 
 
 New projects should be initiated using GitHub and Don's project template. Make habit of pulling from the master branch every time you start working on the project. Commit/push frequently as you make progress. Include notes on commit messages to denote changes and progress made.
 
-### Writing Script
-
-*UNDER CONSTRUCTION*
-
-### Manuscript Preparation
+## Manuscript Preparation
 
 All working manuscripts (thesis/journal publication) will be stored on OneDrive and shared with Don/others. Manuscripts should be prepared using Microsoft Word (Desktop or Cloud versions) for collaboration and version control. (We will avoid using Google Doc for preparing manuscripts). 
 
@@ -314,7 +309,6 @@ Mata, R., Frey, R., Richter, D., Schupp, J., & Hertwig, R. (2018). Risk preferen
 
 Highhouse, S., Wang, Y., & Zhang, D. C. (2022). Is Risk Propensity Unique from the Big Five Factors of Personality? A Meta-Analytic Investigation. Journal of Research in Personality, 104206. https://doi.org/10.1016/j.jrp.2022.104206
 
-
 ### Judgment and Decision Making
 
 Zhang, D. C., & Highhouse, S. (2018). Judgment and Decision Making in the Workplace. In N. Anderson, D. S. Ones, C. Viswesvaran, & H. Sinangil (Eds.), Handbook of industrial, work and organizational psychology, Volume 2: Organizational psychology (2nd ed., Vol. 1, p. 23). Wiley New York.
@@ -334,18 +328,6 @@ Zhang, D. C., Highhouse, S., Brooks, M. E., & Zhang, Y. (2018). Communicating th
 Dalal, R. S., Bhave, D. P., & Fiset, J. (2014). Within-Person Variability in Job Performance: A Theoretical Review and Research Agenda. Journal of Management, 40(5), 1396–1436. https://doi.org/10.1177/0149206314532691
 
 Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. Organizational Behavior and Human Decision Processes, 151, 90-103.
-
-Heslin, P. A., Latham, G. P., & VandeWalle, D. (2005). The Effect of Implicit Person Theory on Performance Appraisals. Journal of Applied Psychology, 90(5), 842–856. https://doi.org/10.1037/0021-9010.90.5.842
-
-### Methodological Papers
-
-Matthews, R. A., Pineault, L., & Hong, Y.-H. (2022). Normalizing the use of single-item measures: Validation of the single-item compendium for organizational psychology. Journal of Business and Psychology, 1–36.
-
-Patriotta, G. (2020). Writing Impactful Review Articles. Journal of Management Studies, 57(6), 1272–1276. https://doi.org/10.1111/joms.12608
-
-Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rupp, D. E., & Rogelberg, S. G. (2018). Answers to 18 Questions About Open Science Practices. Journal of Business and Psychology. https://doi.org/10.1007/s10869-018-9547-8
-
-Antonakis, J., Bendahan, S., Jacquart, P., & Lalive, R. (2010). On making causal claims: A review and recommendations. The Leadership Quarterly, 21(6), 1086–1120. https://doi.org/10.1016/j.leaqua.2010.10.010
 
 ### Writing and Theorizing
 
