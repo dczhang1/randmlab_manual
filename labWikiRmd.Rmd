@@ -207,7 +207,8 @@ All of the software below are free and open-source, which means you can download
 
 # Laboratory Research
 
-This section details the steps needed to conduct laboratory research studies using the SONA system. 
+This section details the steps needed to conduct laboratory research studies using the SONA system.
+
 ### Experimental Protocol
 
 The lead researcher of the experiment is responsible for producing a detailed research protocol (script) for completing a single instance (trial) of the experiment from beginning to finish. This protocol should be written at the level and clarity of a food recipe. This means that any RA in the lab should be able to take your protocol and replicate the entire experiment in its entirety with out any instruction from you. When writing your protocol, it is important to put yourself in the shoes of another experimenter. You must carefully consider how someone else might interpret your procedure and ensure that all details are written clearly. The experimenter protocol must be tested with the Don present before moving onto the next step of the study. 
