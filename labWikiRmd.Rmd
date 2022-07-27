@@ -38,7 +38,7 @@ The RANDM Lab houses two fully-equipped desktop workstations in the Computer Lab
 The RANDM Lab is founded and directed by Don Zhang. The lab, however, primarily functions through the hard work of graduate and undergraduate researchers. Each semester, the RANDM lab consists of between five to eight undergraduate research assistants and one to three graduate researchers and post-docs. Lab personnel may find their relevant responsibilities and expectations below
 
 ## Principal Investigator
-My role is to oversee all research related activities in the RANDM Lab. As the lab Principal Investgiator, I am responsibile for providing researchers in the lab with various researces they need to succeed. However, as the PI, I also wear many hats such as teacher, mentor, adviser, and emotional support. I will 
+My role is to oversee all research related activities in the RANDM Lab. As the lab Principal Investigator, I am responsible for providing researchers in the lab with various resources they need to succeed. However, as the PI, I also wear many hats such as teacher, mentor, and adviser. I will 
 
 * Support your professional and personal development, broadly speaking.
 
@@ -53,7 +53,6 @@ My role is to oversee all research related activities in the RANDM Lab. As the l
 * Ensure a safe, supportive, and healthy research environment. 
 
 * Maintain continued support outside of the non-academic calendar (i.e., summers, winter breaks).
-
 
 ## Graduate Students 
 Graduate students are expected to work very closely with me on all research related activities. Advanced graduate students are also expect to take on leadership roles in research projects. Although I will provide supervision, support, and instruction to the best of my ability, I also expect you to independently acquire skills, knowledge, and expertise to develop your own research. In addition to LSU requirements for course work and degree milestones, graduate students in the lab are expected to:
@@ -140,9 +139,10 @@ Vacations are encouraged. Take them! Please observe LSU calendar for official ho
 
 ## Communication
 
-We actively try to avoid using emails when communicating with each other. Instead, during the academic school year, all lab-related communications are contained on Slack, which is a real-time team-based communication platform. Slack can be accessed via your web browser (e.g., Google Chrome), as a Desktop app, and as a Mobile app. 
+All lab-related communications are contained on Slack, which is a real-time team-based communication platform. Slack can be accessed via your web browser (e.g., Google Chrome), as a Desktop app, and as a Mobile app. 
 
-You are expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 48 business hours (even if this means a thumbs-up emoji on Slack messages, we love technology :). If you receive emails or Slack messages from me during odd hours, you are not obligated or expected to respond. 
+You are expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 48 business hours (even if this means a thumbs-up emoji on Slack messages, we love technology :). If you receive emails or Slack messages from me during non-business hours, you are not obligated or expected to respond until you return to the office.
+
 ### Slack Guidelines
 
 1. Post in appropriate channels
@@ -161,7 +161,7 @@ You are expected to check and respond to emails and Slack messages in a timely m
 
 ## Lab Meetings
 
-Each graduate student will have a weekly 10-minute check-in meeting with me on every Monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You must be prepared to provide an update and list of concrete actions/goals before the meeting. 
+Each graduate student will have a weekly 15-minute check-in meeting with me on every Monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You must be prepared to provide an update and list of concrete actions/goals before the meeting. 
 
 We will have bi-weekly 1-hour full lab meetings for research activities such as article readings, brainstorming sessions, research presentation, or other professional development activities (e.g., mini-workshops). Other project-specific meetings will be held on a as-needed basis. 
 
@@ -280,7 +280,7 @@ We use Todoist (todoist.com) for management of projects, tasks, and deadlines. A
 
 ## Github and Version Control
 
-All lab members involved in data analysis should have a GitHub.com account and download the GitKraken for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). 
+All lab members involved in data analysis should have a GitHub.com account and download the GitHub Desktop for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). 
 
 New projects should be initiated using GitHub and Don's project template. Make habit of pulling from the master branch every time you start working on the project. Commit/push frequently as you make progress. Include notes on commit messages to denote changes and progress made.
 
@@ -341,12 +341,6 @@ Ragins, B. (2012). Reflections on the craft of clear writing. Academy of Managem
 “How to Use Storytelling in Academic Writing” – Tim Pollock
 
 “Scientific Writing for Psychology” – Robert Kail 
-
-## Script and R Code
-
-R Project Templates (https://github.com/dczhang1/projectTemplate)
-
-R Script for Analyses (https://github.com/dczhang1/analysisTemplates)
 
 # Onboarding
 
