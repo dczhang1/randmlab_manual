@@ -179,13 +179,9 @@ I will try to be be transparent and clear about authorship roles at early stages
 
 ## Essential Internet Accounts
 
-**Outlook.** You all have access to Microsoft's office suite through LSU. Please familiarize yourself with emails and calendars. All meeting invitations will be sent to your email as calender invites. Please RSVP when invited.
-
-**Microsoft OneDrive. ** Please make sure you are enrolled in the RANDM Lab OneDrive. Essential lab-related documents and various research related resources can be found on the shared lab folder.
-
 **Slack.** All lab members must be signed up Slack  Lab members expected to keep up with lab-related communication using Slack. 
 
-**Qualtrics.** All LSU students have access to an institutional license to Qualtrics, which is a survey/experiment builder. Please register for an account [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjf_7Xztab5AhVAlGoFHR8bBoEQFnoECAIQAQ&url=https%3A%2F%2Flsu.qualtrics.com%2F&usg=AOvVaw3YkdQETiG5CRp7pLwBUwZk)
+**Microsoft OneDrive. ** Please make sure you are enrolled in the RANDM Lab OneDrive. Essential lab-related documents and various research related resources can be found on the shared lab folder.
 
 **SONA Researcher Account** Graduate students and RAs who are actively involved in data collection via the SONA subject pool must obtain a researcher account. You may request an account by emailing (cc Dr. Don and the graduate student PI (if applicable)) the SONA administrator (researchadmin@lsu.edu)
 
@@ -196,6 +192,8 @@ I will try to be be transparent and clear about authorship roles at early stages
 **Open Science Framework.** Graduate students and researchers are required to have accounts on OSF to best engage in Open Science Practices
 
 **Google Account** Some research projects may be hosted on a Google Drive. Therefore, it is highly advised that you obtain a free Google account, as well. 
+
+**Zotero** is a open-source citation manager. I *very highly* recommend that you use Zotero for managing your papers and creating your citations. A great tutorial can be found [here](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EbjGUJnqNulJiGjhUNjyhasByat7s-4o1kFvtA32FhZA9w?e=0zbfXG)for a tutorial 
 
 ## Software
 
@@ -285,6 +283,10 @@ We use Todoist (todoist.com) for management of projects, tasks, and deadlines. A
 All lab members involved in data analysis should have a GitHub.com account and download the GitHub Desktop for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). 
 
 New projects should be initiated using GitHub and Don's project template. Make habit of pulling from the master branch every time you start working on the project. Commit/push frequently as you make progress. Include notes on commit messages to denote changes and progress made.
+
+## Manuscript Preparation
+
+All working manuscripts (thesis/journal publication) will be stored on OneDrive and shared with Don/others. Manuscripts should be prepared using Microsoft Word (Desktop or Cloud versions) for collaboration and version control. (We will avoid using Google Doc for preparing manuscripts). 
 
 # Resources
 
@@ -405,7 +407,8 @@ For more information about journals not listed here, see *[Journal Citation Repo
 * Check out the [RANDM Lab website](https://randmlab.owlstown.net/)
 * Send Dr. Don your website member profile and photo. 
 * Complete the [CITI Research Ethics](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EdThifAPGZdJhRTtj8YzGpIBg69HZZJOw4u_ZRkSyqWA8Q?e=CuoGq4) training and send the completion certificate to the Lab Manager
+* Read the entire Lab Manual (Find link in the Wiki channel on Slack) 
 * Undergraduate RAs should review the PSY2999/4999 [Course Syllabus](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/EfjUX5efBYhKmvILOAEPtcgBuw1Fj2gUhrknl-vCXYUTXg?e=RfnGQV)
 * Undergraduate RAs should obtain a blank copy of the RA [Weekly Update Form](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/ETYHnVik8jFMuCfw2bcvLvkBIl7e-Ly-EG9hTz_CPdjx4g?e=8yqGNc)
 * Graduate students must read abstracts of recently-published articles in this lab to familiarize with lab's current research.
-* Set up essential software and accounts we use in in the lab (see Software and Accounts section of the manual)
+
