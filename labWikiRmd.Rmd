@@ -3,13 +3,12 @@ title: "Risk and Decision Making Lab (RANDM LAB)"
 author: "Principle Investigator: Don Zhang, Ph.D."
 date: 'Updated: `r Sys.Date()`'
 output: 
-  html_document:
-    toc: true
+  html_document: 
+    toc: yes
     toc_float:
-      toc_collapsed: true
-    toc_depth: 3
-    number_sections: true
-    theme: lumen
+      toc_collapsed: yes
+    number_sections: yes
+    theme: yeti
 subtitle: Lab Manual
 editor_options:
   chunk_output_type: console
@@ -103,7 +102,7 @@ Students who are interested pursuing and leading their own research should speak
 
 Undergraduate researchers are expected to take leadership role in their project. This means that you will be treated more like a graduate student. Independent research experience is essential for admission into research-oriented graduate programs (e.g., PhD programs). 
 
-As an adviser, I will supervise, direct, and support your research to the best of my ability. However, scientific research is unlike class work. There are often no 'right' answers. You are expected to be independent, self-motivated, and industrious. Your research is part of the RANDM lab, which means you may use lab resources in equipment, space, and personnel to complete your research. You will also be expected to present the result of your research at conferences and submitting it for publiation in scientific journals.
+As an adviser, I will supervise, direct, and support your research to the best of my ability. However, scientific research is unlike class work. There are often no 'right' answers. You are expected to be independent, self-motivated, and industrious. Your research is part of the RANDM lab, which means you may use lab resources in equipment, space, and personnel to complete your research. You will also be expected to present the result of your research at conferences and submitting it for publication in scientific journals.
 
 ## Research Assistants
 
@@ -159,7 +158,7 @@ You are expected to check and respond to emails and Slack messages in a timely m
 
 ## Lab Meetings
 
-Each graduate student will have a weekly 15-minute check-in meeting with me on every Monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You must be prepared to provide an update and list of concrete actions/goals before the meeting. 
+Each graduate student will have a weekly 15-minute check-in meeting with me on every Monday. The purpose is to set the goal for the week as well as review your progress from the previous week. You should be prepared with a list of completed tasks from the week before, an update on current project status, and a list of actions for the current week. This should be done on Todoist.  
 
 We will have bi-weekly 1-hour full lab meetings for research activities such as article readings, brainstorming sessions, research presentation, or other professional development activities (e.g., mini-workshops). Graduate students may be asked to lead article discussions, research presentations, or mini workshops. Other project-specific meetings will be held on a as-needed basis. 
 
@@ -167,9 +166,9 @@ Finally, I have a virtual and physical open-door policy. Feel free to message me
 
 ## Authorship and Credit
 
-Graduate students are expected to significantly contribute to research within the lab. *Authorship* on research outputs (manuscripts, posters, etc) is given to individuals who made meaningful and substantial *intellectual contributions,* which include, but are not limited to, significant contribution to literature synthesis, theory development, research design, hypotheses generation, data analysis, and manuscript writing/editing. Individuals who made clerical or administrative contributions, which include data collection, survey building, copy-editing will be listed in the *acknowledgment* sections of the research product. 
+Graduate students are expected to significantly contribute to research within the lab. *Authorship* on research outputs (manuscripts, posters, etc) is given to individuals who made meaningful and substantial *intellectual contributions,* which include, but are not limited to, significant contribution to literature synthesis, theory development, research design, hypotheses generation, data analysis, and manuscript writing/editing. 
 
-All projects will have a *lead researcher* (typically Don or a senior graduate student). The lead researcher is responsible for directing the research effort, delegating tasks, and actively moving the project forward. The lead researcher is usually responsible for the first draft of the final manuscript. Lead researcher will be listed in the *first author* only if they meet the author requirements listed previously. Graduate students who provide supporting roles (e.g., data analysis, literature review) are expected to complete the assigned task in a timely manner. Failure to do so may result in removal from the project or dismissal from the lab/program.
+All projects will have a *lead researcher* (typically Don or a senior graduate student). The lead researcher is responsible for directing the research effort, delegating tasks, and actively moving the project forward. The lead researcher is usually responsible for the first draft of the final manuscript. Graduate students who provide supporting roles (e.g., data analysis, literature review) are expected to complete the assigned task in a timely manner. 
 
 I will try to be be transparent and clear about authorship roles at early stages of the project. However, new authors may be added to a project based on their contributions at later stages of the project. And existing authors may be removed if they fail to fulfill their responsibilities and complete the necessary research tasks in an accurate and timely manner. 
 
@@ -183,7 +182,7 @@ I will try to be be transparent and clear about authorship roles at early stages
 
 **Microsoft OneDrive. ** Please make sure you are enrolled in the RANDM Lab OneDrive. Essential lab-related documents and various research related resources can be found on the shared lab folder.
 
-**SONA Researcher Account** Graduate students and RAs who are actively involved in data collection via the SONA subject pool must obtain a researcher account. You may request an account by emailing (cc Dr. Don and the graduate student PI (if applicable)) the SONA administrator (researchadmin@lsu.edu)
+**SONA Researcher Account** Graduate students and RAs who are actively involved in data collection via the SONA subject pool must obtain a researcher account. You may request an account by emailing (cc Don and the graduate student PI (if applicable)) the SONA administrator (researchadmin@lsu.edu)
 
 [**Github**](github.com) Github is required for version control and is particularly useful when working in R.
 
@@ -193,7 +192,7 @@ I will try to be be transparent and clear about authorship roles at early stages
 
 **Google Account** Some research projects may be hosted on a Google Drive. Therefore, it is highly advised that you obtain a free Google account, as well. 
 
-**Zotero** is a open-source citation manager. I *very highly* recommend that you use Zotero for managing your papers and creating your citations. A great tutorial can be found [here](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EbjGUJnqNulJiGjhUNjyhasByat7s-4o1kFvtA32FhZA9w?e=0zbfXG)for a tutorial 
+
 
 ## Software
 
@@ -204,6 +203,8 @@ All of the software below are free and open-source, which means you can download
 **GitHub Desktop** GitHub has an optional desktop client to facilitate version control. However, all git-related actions can be completed using RStudio or the terminal. 
 
 **Jamovi.** Jamovi is an user-friendly and open-source statistical software. Students may use Jamovi for their first project (e.g. undergraduate) but are required to move onto R as soon as possible. For graduate students, jamovi may be used as a supplemental tool but all final analyses needs to be done in R (See library(jmv) for how to use Jamovi in conjunction with R).
+
+**Zotero** is a open-source citation manager. I *very highly* recommend that you use Zotero for managing your papers and creating your citations. A great tutorial can be found [here](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EbjGUJnqNulJiGjhUNjyhasByat7s-4o1kFvtA32FhZA9w?e=0zbfXG)
 
 # Laboratory Research
 
@@ -276,7 +277,7 @@ We use Todoist (todoist.com) for management of projects, tasks, and deadlines. A
 
 3. @someday - non-actions/references/reminders for future
 
-4. other optional tags include: @erranges, @email, @campus. 
+4. other optional tags include: @errands, @email, @campus. 
 
 ## Github and Version Control
 
@@ -290,9 +291,13 @@ All working manuscripts (thesis/journal publication) will be stored on OneDrive 
 
 # Resources
 
+## Funding
+
+The RANDM Lab current has funding from the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142891&HistoricalAwards=false) (2022 to 2027) to conduct research on workplace risk taking. Research activities that advance the aims of the grant ([Read the project description here](https://lsumail2-my.sharepoint.com/:w:/r/personal/zhang1_lsu_edu/Documents/RANDM%20LAB/Manuscripts/WorkingPapers/NSF/NSF_ProjDescrip_Short.doc?d=webf213a7f08945e6964b3a7ff30fb306&csf=1&web=1&e=tzgypI)) may be eligible to receive funding for research projects (e.g., theses/dissertations) as well as travel funding if presenting research related to the grant at a conference. 
+
 ## Key Readings
 
-The articles below are a collection of key papers for research in this lab. This reading list serves two purposes. First, it provides an overview of the research agenda of this lab. Second, it gives you a starting point for your literature review should you choose to conduct research in these areas. Graduate students required to be familiar with articles in this list to gain a general grasp of our research agenda. (Papers published by the lab can be found in the [OneDrive folder](https://lsumail2-my.sharepoint.com/:f:/g/personal/zhang1_lsu_edu/EiqXU6eWAi1DjZbF2qSpyecBOZzmhbqr1UlsezlLdsPu0g?e=V84od3))
+The articles below are a collection of key papers for research in this lab. This reading list serves two purposes. First, it provides an overview of the research agenda of this lab. Second, it gives you a starting point for your literature review should you choose to conduct research in these areas. (Papers published by the lab can be found in the [OneDrive folder](https://lsumail2-my.sharepoint.com/:f:/g/personal/zhang1_lsu_edu/EiqXU6eWAi1DjZbF2qSpyecBOZzmhbqr1UlsezlLdsPu0g?e=V84od3))
 
 ### Risk Taking
 
@@ -344,25 +349,34 @@ Ragins, B. (2012). Reflections on the craft of clear writing. Academy of Managem
 
 ## Journal List
 
-Below is a list of journals in our field. It is important to keep up to date with research in your topic area as well as scholars in the field. To keep up with research, I suggest setting up email alerts of new articles. Most publishers have ways to set up email alerts. **Disclaimer:** The list below is not exhaustive nor is it a definitive list of 'good' journals. They are just the journals that I read and prefer based on my research interests. There are great journals (e.g., Journal of Occupational Health Psychology) not on this list simply because I don't publish in them. When deciding where to publish, it is important to find the journal that best suits your topic. However, the list below is a good place to start. 
+Below is a list of journals in our field. It is critical to keep up to date with research in your topic area as well as scholars in the field. To do so, I suggest setting up email alerts of new articles. Most publishers have ways to set up email alerts. Regardless of how you do it, you must be reading at least the titles and abstracts of new articles published in our field journals regularly.
+
+**Disclaimer:** The list below is not exhaustive nor is it a definitive list of 'good' journals. They are just the journals that I read and prefer based on my research interests. There are journals (e.g., Journal of Occupational Health Psychology) not on this list. When deciding where to publish, it is important to find the journal that best suits your topic. However, the list below is a good place to start. 
 
 For more information about journals not listed here, see *[Journal Citation Reports](https://jcr-clarivate-com.libezp.lib.lsu.edu/JCRLandingPageAction.action?Init=Yes&SrcApp=IC2LS&SID=H1-hfMhfOetjR5x2BS8b3kRbwpw5N2f363uyG-18x2d6GyQxxFugKPUa4tn0JGiq6Ax3Dx3DXI8H1iMG7OaDHqL5X7hMVQx3Dx3D-03Ff2gF3hTJGBPDScD1wSwx3Dx3D-cLUx2FoETAVeN3rTSMreq46gx3Dx3D)* 
 
 **IO Psychology, HR Management, Organizational Behavior**
 
+- Journal of Applied Psychology (JAP)
+- Journal of Business Psychology (JBP)
+- Personnel Psychology (PPsych)
 - Academy of Management Journal (AMJ)
 - Journal of Management (JOM)
-- Journal of Applied Psychology (JAP)
 - Organizational Behavior and Human Decision Processes (OBHDP)
+- International Journal of Selection and Assessment (IJSA)
 - Journal of Organizational Behavior (JOB)
-- Personnel Psychology (PPsych)
-- Journal of Business Psychology (JBP)
 - Applied Psychology: an International Review (AP:IR)
 - Journal of Occupational and Organizational Psychology (JOOP)
 - Industrial and Organizational Psychology (IOP)
 - Journal of Vocational Behavior (JVB)
-- International Journal of Selection and Assessment (IJSA)
 - Personnel Assessment and Decisions (PAD)
+
+**JDM Journals**
+
+- Journal of Behavioral Decision Making (JBDM)
+- Judgment and Decision Making Journal (JDM)
+- Journal of Risk and Uncertainty (JRU) 
+- Journal of Risk Research (JRR)
 
 **Social and Personality Psychology**
 
@@ -384,18 +398,11 @@ For more information about journals not listed here, see *[Journal Citation Repo
 
 **General Psychology**
 
-- Psychological Bulletin (Psych Bull)
+- Psychological Bulletin
 - Psychological Review
 - Journal of Experimental Psychology: General (JEP:G)
 - Psychological Science
 - Topics in Cognitive Science
-
-**JDM/Misc Journals**
-
-- Journal of Behavioral Decision Making (JBDM)
-- Judgment and Decision Making Journal (JDM)
-- Journal of Risk and Uncertainty (JRU) 
-- Journal of Risk Research (JRR)
 
 # Onboarding
 
@@ -405,7 +412,7 @@ For more information about journals not listed here, see *[Journal Citation Repo
 * Sign up for a [Slack](https://slack.com/) account and enroll in the lab channel. 
 * Swing by to check out the Lab facilities (Johnston Rooms 9 and 10)
 * Check out the [RANDM Lab website](https://randmlab.owlstown.net/)
-* Send Dr. Don your website member profile and photo. 
+* Send Don your website member profile and photo. 
 * Complete the [CITI Research Ethics](https://lsumail2-my.sharepoint.com/:b:/g/personal/zhang1_lsu_edu/EdThifAPGZdJhRTtj8YzGpIBg69HZZJOw4u_ZRkSyqWA8Q?e=CuoGq4) training and send the completion certificate to the Lab Manager
 * Read the entire Lab Manual (Find link in the Wiki channel on Slack) 
 * Undergraduate RAs should review the PSY2999/4999 [Course Syllabus](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/EfjUX5efBYhKmvILOAEPtcgBuw1Fj2gUhrknl-vCXYUTXg?e=RfnGQV)
