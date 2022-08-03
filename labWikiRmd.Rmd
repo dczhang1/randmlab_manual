@@ -404,6 +404,22 @@ For more information about journals not listed here, see *[Journal Citation Repo
 - Psychological Science
 - Topics in Cognitive Science
 
+## Statistics and R
+
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+- [Data Visualization - A practical introduction](https://socviz.co/index.html#preface)
+- [Personality Project for R](http://personality-project.org/r/)
+- [R for Data Science](https://r4ds.had.co.nz/index.html)
+
+## Utilities and Web Apps
+
+- [Mediation Power Analysis Web App](https://davidakenny.shinyapps.io/MedPower/)
+- [Power Analysis for General ANOVA](https://jakewestfall.shinyapps.io/pangea/)
+- [Shiny App for Meta-Analysis](http://kylehamilton.net/shiny/MAVIS/)
+- [Relative Weights Analysis Shiny App](https://kamalyunus.shinyapps.io/relweights/)
+- [interActive - Visualizing Interactions](https://connorjmccabe.shinyapps.io/interactive/)
+- [zoteroBib - Bibliography Generator](https://zbib.org/)
+
 # Onboarding
 
 *Tasks to be completed in the first 2 weeks of joining the lab*
