@@ -132,13 +132,13 @@ Research assistants are also encouraged to develop their own ideas that they can
 
 Graduate students should treat your PhD as a full-time job. This means expecting to work between regular business hours (9 to 5), Mon – Fri. Although research in academia is flexible and remote work is possible, lab members are expected to be on campus/in office at least 3 days a week to maximize collaboration, intellectual engagement, and building camaraderie. Ultimately, I encourage you to find what works for you for getting work done but also contribute to the culture-building and collaborative needs of the lab.
 
-Vacations are encouraged. Take them! Please observe LSU calendar for official holidays (e.g., Christmas, Mardi Gras, etc). You should also take some time off during the summer (3 weeks, with flexibility. Please notify Don when away from office/computer). However, summers are prime time for research and writing due to reduced course and teaching obligations. Thus, you are expected to be working on research (e.g., working towards publications) and degree milestone (e.g., thesis and dissertations) during summer months. I expect you to be working ~20 hours per week on research activities and/or professional development. Individual arrangements may vary for students on full-time external internships or grants. Please speak with Don before each summer regarding your summer plans. 
+Vacations are encouraged. Take them! Please observe LSU calendar for official holidays (e.g., Christmas, Mardi Gras, etc). You should also take some time off during the summer (3 weeks, with flexibility. Please notify Don when away from office/computer). However, summers are prime time for research and writing due to reduced course and teaching obligations. Thus, you are expected to be working on research (e.g., working towards publications) and degree milestone (e.g., thesis and dissertations) during summer months. I expect you to be working at least 20 hours per week on research activities and/or professional development (e.g., acquiring new skills). Individual arrangements may vary for students on full-time external internships or grants. Please speak with Don before each summer regarding your summer plans. 
 
 ## Communication
 
 All lab-related communications are contained on Slack, which is a real-time team-based communication platform. Slack can be accessed via your web browser (e.g., Google Chrome), as a Desktop app, and as a Mobile app. 
 
-You are expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 48 business hours maximum (even if this means a thumbs-up emoji). If you receive emails or Slack messages from me during non-business hours, you are not obligated or expected to respond until you return to the office.
+You are expected to check and respond to emails and Slack messages in a timely manner to keep updated on lab announcements and project-related discussions. This means responding to messages within 36 business hours maximum (even if this means a thumbs-up emoji). If you receive emails or Slack messages from me during non-business hours, you are not obligated or expected to respond until you return to the office.
 
 ### Slack Guidelines
 
@@ -281,13 +281,21 @@ We use Todoist (todoist.com) for management of projects, tasks, and deadlines. A
 
 ## Github and Version Control
 
-All lab members involved in data analysis should have a GitHub.com account and download the GitHub Desktop for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). 
+All lab members involved in data analysis should have a GitHub.com account and download the GitHub Desktop for their computer. Github should be used for individual and collaborative projects. All individual projects, including thesis, must be on GitHub and always updated (more on version control later). Published and working manuscripts are stored in the Manuscripts folder in the RANDM Lab. 
 
 New projects should be initiated using GitHub and Don's project template. Make habit of pulling from the master branch every time you start working on the project. Commit/push frequently as you make progress. Include notes on commit messages to denote changes and progress made.
 
-## Manuscript Preparation
+## Workflow
 
-All working manuscripts (thesis/journal publication) will be stored on OneDrive and shared with Don/others. Manuscripts should be prepared using Microsoft Word (Desktop or Cloud versions) for collaboration and version control. (We will avoid using Google Doc for preparing manuscripts). 
+Everyone may have personal preferences on how to manage their digital lives and files. Although I believe that is critical for every lab members to maintain a tidy and organized digital working space, I will not supervise or micro-manage how you organize your files on your personal computers. However, I do expect the following when it comes to work related to the lab, including your theses/dissertations. 
+
+1) You must maintain updated version of the project on GitHub at all times. In other words, every time you make progress on a project, your work must be pushed to GitHub. 
+
+2) You may write your manuscripts anywhere and using any software. But you must maintain an updated version of working manuscripts in the One Drive folder regularly. 
+
+3) You must learn/adhere to the workflow conventions with respect to statistical analysis when working on a project in this lab. You must write code that *anyone* in this lab can understand and replicate. 
+
+4) You must learn to use R for statistical analyses. You may use other software (e.g., MPlus, SPSS, JAMOVI) for specific purposes, but any general analyses must be done in R. 
 
 # Resources
 
