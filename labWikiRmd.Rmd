@@ -442,4 +442,4 @@ For more information about journals not listed here, see *[Journal Citation Repo
 * Undergraduate RAs should review the PSY2999/4999 [Course Syllabus](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/EfjUX5efBYhKmvILOAEPtcgBuw1Fj2gUhrknl-vCXYUTXg?e=RfnGQV)
 * Undergraduate RAs should obtain a blank copy of the RA [Weekly Update Form](https://lsumail2-my.sharepoint.com/:w:/g/personal/zhang1_lsu_edu/ETYHnVik8jFMuCfw2bcvLvkBIl7e-Ly-EG9hTz_CPdjx4g?e=8yqGNc)
 * Graduate students must read abstracts of recently-published articles in this lab to familiarize with lab's current research.
-* small changes
+* playing around
